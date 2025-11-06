@@ -7,7 +7,16 @@
       "description": "人个网",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "287f64fa-301c-404f-bab2-646b9e303823",
+          "title": "我的网址",
+          "icon": "Home",
+          "description": "网址",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
