@@ -1,3 +1,13 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1762390841863",
+      "title": "个人主页",
+      "icon": "FolderKanban",
+      "description": "人个网",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
 }
